@@ -1,6 +1,6 @@
 {
-  "name": "ngMax",
-  "version": "1.0.0",
+  "name": "ng-max",
+  "version": "1.0.1",
   "keywords": ["cit", "ngMax", "angularJS"],
   "main": ["dist/ngMax.js"],
   "ignore": [
